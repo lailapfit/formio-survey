@@ -1,0 +1,25 @@
+{
+    "type": "selectimages",
+    "key": "image",
+    "label": "What would be your preferred design for the noise walls if they were to be installed?",
+    "values": [
+      {
+        "value": "Panda",
+        "image": "https://image.shutterstock.com/image-vector/cute-funny-baby-panda-hanging-600w-334228436.jpg"
+      },
+      {
+        "value": "Panda2",
+        "image": "https://image.shutterstock.com/image-vector/cute-panda-face-600w-794939296.jpg"
+      },
+      {
+        "value": "Panda3",
+        "image": "https://image.shutterstock.com/image-vector/cute-little-bear-panda-baby-600w-1453914383.jpg"
+      }
+    ],
+    "tableView": true,
+    "persistent": true,
+    "unique": false,
+    "protected": false,
+    "defaultValue": "",
+    "input": true
+  }
